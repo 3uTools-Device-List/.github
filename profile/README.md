@@ -6,8 +6,6 @@ Download 3uTools to service a phone you operate on a host you own, with backups,
 
 ## What 3uTools Brings to Device Service
 
-![Banner Placeholder](https://dl-image.3u.com/upload/20160930/1475228216405008115.jpg)
-
 3uTools is a service client for a phone you operate, not a license to attach a device you do not own. Built for people who need a 3uTools Device List with a 3uTools Backup Path they can still name, it focuses on 3uTools File Path, 3uTools Flash Log, and 3uTools Package List. Instead of leaving every cable unnamed, 3uTools keeps that phone in a book you can close.
 
 As a 3uTools desktop utility, it is designed around practical daily copies. 3uTools Device List can stay named for the job, while 3uTools Backup Path stays limited to a folder you already own. This makes 3uTools useful for operators, technicians, and lab leads who want 3uTools File Path without mixing a device they do not own. The 3uTools app keeps 3uTools Flash Log and 3uTools Package List approachable while still supporting a clear disconnect path.
